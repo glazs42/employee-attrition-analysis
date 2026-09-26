@@ -38,7 +38,7 @@ Each one got a chart and a plain sentence explaining what it actually meant, not
 
 ## The Dashboard
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](images/Dashboard_Screenshot.png)
 
 The dashboard lets you filter by department, gender, overtime status, and age range, so instead of just reading my conclusions, you can go check whether they hold up for a specific slice you care about.
 
