@@ -34,8 +34,6 @@ Each one got a chart and a plain sentence explaining what it actually meant, not
 - Lower income and shorter tenure showed up consistently among people who left, which wasn't surprising, but seeing it laid out that clearly still made the pattern feel more real.
 - Job satisfaction mattered, but less than I expected going in. Overtime and income were stronger signals.
 
-*(Note: pull your exact percentages from your own notebook output before publishing, mine were close to these but ran on my own cleaned version of the data.)*
-
 ## The Dashboard
 
 ![Dashboard Screenshot](images/Dashboard_Screenshot.png)
